@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on anything
+- 🌱 I’m currently learning anything
+- ⚡ Fun fact: just enjoying my student life and programming
